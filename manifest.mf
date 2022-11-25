@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+GSP-Version: 2.3.0.9
+Connector-Version: SC_B_SQL_RE_SYNAPSE_V4.0.0
+Acp-Version: SQL_RE_SYNAPSE_V2.0.0
